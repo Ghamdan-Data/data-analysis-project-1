@@ -15,5 +15,6 @@ This repository contains a Python project focused on data cleaning and explorato
 ## How to Run
 1. Clone the repository:
    ```bash
- git clone https://github.com/Ghamdan-Data/data-analysis-project-1.git
- python data_cleaning_eda.py
+   git clone https://github.com/Ghamdan-Data/data-analysis-project-1.git
+   python data_cleaning_eda.py
+   ```
